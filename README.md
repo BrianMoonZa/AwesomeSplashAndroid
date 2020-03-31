@@ -49,7 +49,7 @@ Add this to your build.grade:
 and then in dependencies:
 ```javascript
 	dependencies {
-      implementation 'com.github.BrianMoonZa:AwesomeSplashAndroid:v1.0.3'
+      		implementation 'com.github.BrianMoonZa:AwesomeSplashAndroid:v1.0.3'
 	}
 ```
 
