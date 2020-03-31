@@ -2,7 +2,7 @@
 
 [![](https://www.jitpack.io/v/sadeghpro/AndroidSplash.svg)](https://www.jitpack.io/#sadeghpro/AndroidSplash)
 
-This repo is based on [ViksaaSkool/AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash) and have almost all functionality of it and for now I only add support of android api 28.
+This repo is based on [ViksaaSkool/AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash) Latest Version For Androidx Api 29.
 
 <img src="https://github.com/ViksaaSkool/AwesomeSplash/blob/master/rdme/web_res_512.png" width="96" height="96"/>
 
@@ -49,7 +49,7 @@ Add this to your build.grade:
 and then in dependencies:
 ```javascript
 	dependencies {
-      implementation 'com.github.sadeghpro:AndroidSplash:v1.0.2'
+      implementation 'com.github.BrianMoonZa:AwesomeSplashAndroid:v1.0.3'
 	}
 ```
 
